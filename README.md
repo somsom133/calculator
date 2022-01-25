@@ -1,2 +1,2 @@
 # calculator
-git-github Study 220125
+기술 교육 실습 git-github Study 220125
